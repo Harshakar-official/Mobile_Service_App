@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_add_service"
+        android:title="Add Service"
+        android:icon="@drawable/is_add"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_bookings"
+        android:title="My Bookings"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_profile"
+        android:title="My Profile"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_admin_bookings"
+        android:title="All Bookings"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_manage_users"
+        android:title="Manage Users"
+        android:visible="false" />
+
+
+
+
+
+</menu>

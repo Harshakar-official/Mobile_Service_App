@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="status_pending">#FFFFD700</color>
+    <color name="status_confirmed">#FF87CEEB</color>
+    <color name="status_in_progress">#FF98FB98</color>
+    <color name="status_completed">#FF90EE90</color>
+    <color name="status_cancelled">#FFFF6B6B</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="gray">#888888</color>
+    <color name="background">#F5F5F5</color>
+
+
+
+</resources>
